@@ -24,7 +24,6 @@ isCheckB = False
 xc = 0
 yc = 0
 
-
 def PrintBoard():
     global board, isLegal
     for i in board:
